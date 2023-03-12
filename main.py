@@ -1,4 +1,2 @@
-a = 20
-b = 5.5
-temp = 36.6
-print(type(a))
+population_how_many = 7_594_376_567
+print("Aholi soni: ", population_how_many)
