@@ -1,2 +1,2 @@
 fruit = "    olma    "
-print("Men " + fruit.rstrip() + " yaxshi ko'raman")
+print("Men " + fruit.strip() + " yaxshi ko'raman")
