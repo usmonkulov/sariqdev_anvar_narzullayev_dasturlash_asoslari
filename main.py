@@ -1,6 +1,2 @@
-# UNICODE degan maxsus belgi
 first_name = "Bobur"
-city = "Bulung'ur"
-region = "Samarqand"
-smayl = "😁"
-print(smayl)
+print("Mening ismim " + first_name)
