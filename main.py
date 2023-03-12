@@ -1,4 +1,2 @@
-a = 20
-b = 5.5
-c = a*b
-print(c)
+d = 100 / 2
+print(type(d))
