@@ -1,2 +1,2 @@
-population_how_many = 7_594_376_567
-print("Aholi soni: ", population_how_many)
+x, y, z = 10, 5.5, -56
+print(x, y, z)
