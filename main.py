@@ -1,2 +1,3 @@
 first_name = "Bobur"
-print("Mening ismim " + first_name)
+last_name = "Usmonkulov"
+print(first_name + last_name)
