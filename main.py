@@ -1,2 +1,2 @@
-first_name = input("Ismingiz nima?")
-print("Assalomu alaykum, " + first_name)
+first_name = input("Ismingiz nima?\n>>>")
+print("Assalomu alaykum, " + first_name.title())
