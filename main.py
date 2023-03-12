@@ -1,4 +1,4 @@
-ism = "Bobur"
-yosh = 25
+ism = "Abdulloh"
 print(ism)
-print(yosh)
+ism="Muhammad"
+print(ism)
