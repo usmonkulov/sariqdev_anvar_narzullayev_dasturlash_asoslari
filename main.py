@@ -1,4 +1,4 @@
-radius = 20
-PI = 3.14159
-diametr = 2*radius
-print("Aylana uzinligi=", PI*diametr)
+first_name = "Jobir"
+age = 36
+message = first_name + ' ' + str(age) + ' yoshda'
+print(message)
