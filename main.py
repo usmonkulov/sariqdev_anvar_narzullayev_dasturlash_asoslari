@@ -1,1 +1,1 @@
-print("Anvar Narzullayev Dasturlash asoslari darsini boshladik")
+print('Men "Dell" markazidagi noutbuk sotib oldim')
