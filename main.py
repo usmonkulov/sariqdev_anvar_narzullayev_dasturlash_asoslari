@@ -1,1 +1,1 @@
-print("Anvar Narzullayev Dasturlash asoslari darsini boshladik")
+print("Hello World")
