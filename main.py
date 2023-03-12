@@ -1,1 +1,4 @@
-print("Anvar Narzullayev Dasturlash asoslari darsini boshladik")
+ism = "Bobur"
+yosh = 25
+print(ism)
+print(yosh)
