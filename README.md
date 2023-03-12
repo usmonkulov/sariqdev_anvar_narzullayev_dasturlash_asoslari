@@ -1,0 +1,1 @@
+# sariqdev_anvar_narzullayev_dasturlash_asoslari
