@@ -1,0 +1,1 @@
+print("Anvar Narzullayev Dasturlash asoslari darsini boshladik")
