@@ -1,4 +1,3 @@
-first_name = "Jobir"
-age = 36
-message = first_name + ' ' + str(age) + ' yoshda'
-print(message)
+t_yil = int(input("Tug'ilgan yilingizni kiriting: "))
+ago = 2023 - t_yil
+print("Siz ", ago, " yoshda ekansiz")
