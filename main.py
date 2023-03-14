@@ -1,2 +1,2 @@
 fruits = ['olma', 'anjir', 'shaftoli', "o'rik"]
-print(fruits[-1])
+print(fruits[0].upper())
