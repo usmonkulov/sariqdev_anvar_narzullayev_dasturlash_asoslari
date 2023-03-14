@@ -1,4 +1,5 @@
-bozorlik = ["yog'", "un", "piyoz", "banan", "go'sht"]
-mahsulot = bozorlik.pop()
-print("Men " + mahsulot + " sotib oldim")
-print("Olinmagan mahsulotlar: ",  bozorlik)
+toys = ('bus', 'car', 'bear', 'dino', 'snake', 'lizard')
+toys = list(toys)
+toys.append("teddy")
+toys = tuple(toys)
+print(toys)
