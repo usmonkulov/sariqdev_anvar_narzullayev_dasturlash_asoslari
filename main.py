@@ -1,2 +1,6 @@
-first_name = input("Ismingiz nima?\n>>>")
-print("Assalomu alaykum, " + first_name.title())
+a = int("10")
+b = float("10")
+temp = str(36.6)
+print("a: ", type(a))
+print("b: ", type(b))
+print("temp: ", type(temp))
