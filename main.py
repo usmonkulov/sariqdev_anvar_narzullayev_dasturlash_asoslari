@@ -1,3 +1,2 @@
-toq_sonlar = list(range(1, 20, 2))
-max_qiymat = max(toq_sonlar)
-print(max_qiymat)
+narhlar = [12000, 22500, 23456, 9800, 5600, 9934, 32874]
+print(max(narhlar))
