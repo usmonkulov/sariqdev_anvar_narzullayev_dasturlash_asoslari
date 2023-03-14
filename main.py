@@ -1,4 +1,3 @@
-bozorlik = ["yog'", "un", "piyoz", "banan", "go'sht"]
-mahsulot = bozorlik.pop()
-print("Men " + mahsulot + " sotib oldim")
-print("Olinmagan mahsulotlar: ",  bozorlik)
+cars = ['bmw', 'mercedes benz', 'volvo', 'general motors', 'tesla', 'audi']
+cars.sort()
+print(cars)
