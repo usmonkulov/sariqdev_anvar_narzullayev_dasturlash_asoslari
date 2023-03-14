@@ -1,7 +1,7 @@
 cars = []
-cars.append("Lacetti")
+cars.append("Nexia 3")
 cars.append("Nexia")
 cars.append("Malibu")
 cars.append("Tracker")
-del cars[0]
+cars.remove("Malibu")
 print(cars)
