@@ -1,2 +1,3 @@
-prices = [12000, 18000, 10900, 22000]
-print(prices[0] + prices[1])
+fruits = ['olma', 'anjir', 'shaftoli', "o'rik"]
+fruits[0] = 'anor'
+print(fruits)
