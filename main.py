@@ -1,7 +1,3 @@
-cars = []
-cars.append("Nexia 3")
-cars.append("Nexia")
-cars.append("Malibu")
-cars.append("Tracker")
-cars.remove("Malibu")
-print(cars)
+animals = ['it', 'mushuk', 'sigir', 'qo\'y', 'quyon', 'mushuk']
+animals.remove("mushuk")
+print(animals)
