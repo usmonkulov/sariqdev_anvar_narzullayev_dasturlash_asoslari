@@ -1,2 +1,2 @@
-numbers = list(range(0,10))
-print(numbers)
+toq_sonlar = list(range(1, 20, 2))
+print(toq_sonlar)
