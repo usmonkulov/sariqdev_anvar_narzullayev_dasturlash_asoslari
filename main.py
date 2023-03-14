@@ -1,3 +1,4 @@
-animals = ['it', 'mushuk', 'sigir', 'qo\'y', 'quyon', 'mushuk']
-animals.remove("mushuk")
-print(animals)
+bozorlik = ["yog'", "un", "piyoz", "banan", "go'sht"]
+mahsulot = bozorlik.pop(1)
+print(mahsulot)
+print(bozorlik)
