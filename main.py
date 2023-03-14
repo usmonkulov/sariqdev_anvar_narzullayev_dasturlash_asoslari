@@ -1,6 +1,4 @@
-a = int("10")
-b = float("10")
-temp = str(36.6)
-print("a: ", type(a))
-print("b: ", type(b))
-print("temp: ", type(temp))
+bozorlik = ["yog'", "un", "piyoz", "banan", "go'sht"]
+mahsulot = bozorlik.pop()
+print("Men " + mahsulot + " sotib oldim")
+print("Olinmagan mahsulotlar: ",  bozorlik)
