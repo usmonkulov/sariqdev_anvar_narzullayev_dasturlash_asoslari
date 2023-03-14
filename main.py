@@ -1,2 +1,2 @@
-numbers = [12, 45, 23, 56, 998, 1, -5, -7.2]
-print(len(numbers))
+numbers = list(range(0,10))
+print(numbers)
