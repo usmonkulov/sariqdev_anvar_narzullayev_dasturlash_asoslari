@@ -1,3 +1,3 @@
-cars = ['Bmw', 'mercedes benz', 'volvo', 'general motors', 'tesla', 'audi']
-cars.sort()
+cars = ['bmw', 'mercedes benz', 'volvo', 'general motors', 'tesla', 'audi']
+cars.sort(reverse=True)
 print(cars)
