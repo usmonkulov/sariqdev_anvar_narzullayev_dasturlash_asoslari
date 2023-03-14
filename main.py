@@ -1,3 +1,6 @@
-t_yil = int(input("Tug'ilgan yilingizni kiriting: "))
-ago = 2023 - t_yil
-print("Siz ", ago, " yoshda ekansiz")
+a = int("10")
+b = float("10")
+temp = str(36.6)
+print("a: ", type(a))
+print("b: ", type(b))
+print("temp: ", type(temp))
