@@ -1,3 +1,3 @@
-cars = ['bmw', 'mercedes benz', 'volvo', 'general motors', 'tesla', 'audi']
-print(sorted(cars, reverse=True))
-print(cars)
+numbers = [12, 45, 23, 56, 998, 1, -5, -7.2]
+numbers.sort(reverse=True)
+print(numbers)
