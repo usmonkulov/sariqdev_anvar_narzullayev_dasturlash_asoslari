@@ -1,3 +1,5 @@
 toys = ('bus', 'car', 'bear', 'dino', 'snake', 'lizard')
-toys[0] = "teddy"
+toys = list(toys)
+toys.append("teddy")
+toys = tuple(toys)
 print(toys)
