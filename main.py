@@ -1,5 +1,3 @@
-toys = ('bus', 'car', 'bear', 'dino', 'snake', 'lizard')
-toys = list(toys)
-toys.append("teddy")
-toys = tuple(toys)
-print(toys)
+mehmonlar = ['Ali', 'Vali', 'Hasan', 'Husan', 'Olim']
+for mehmon in mehmonlar:
+    print("Salom", mehmon)
