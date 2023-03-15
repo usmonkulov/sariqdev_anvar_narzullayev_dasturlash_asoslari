@@ -1,3 +1,7 @@
-numbers = list(range(1, 11))
+numbers = list(range(11))
+numbers_kvadrati = []
 for number in numbers:
-    print(f"{number} ning kvadrati {number**2} ga teng")
+    numbers_kvadrati.append(number**2)
+
+print(numbers)
+print(numbers_kvadrati)
