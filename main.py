@@ -1,7 +1,5 @@
-numbers = list(range(11))
-numbers_kvadrati = []
-for number in numbers:
-    numbers_kvadrati.append(number**2)
-
-print(numbers)
-print(numbers_kvadrati)
+dostlar = []
+print("5 ta eng yaqin do'stingiz kim?")
+for n in range(5):
+    dostlar.append(input(f"{n+1}-do'stingizning ismini kiriting: "))
+print(dostlar)
