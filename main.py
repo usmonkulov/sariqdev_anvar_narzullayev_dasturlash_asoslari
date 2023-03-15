@@ -1,5 +1,2 @@
-dostlar = []
-print("5 ta eng yaqin do'stingiz kim?")
-for n in range(5):
-    dostlar.append(input(f"{n+1}-do'stingizning ismini kiriting: "))
-print(dostlar)
+x, y = 25, 50
+print("x>y") if x>y else print("x<y")
