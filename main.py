@@ -1,6 +1,2 @@
-yil = int(input("Tug'ilgan yilingizni kiriting:"))
-if 2023-yil < 18:
-    print(f"Yoshingiz {2023-yil}da ekan.")
-    print("Kirish mumkin emas!")
-else:
-    print("Xush kelibsiz!")
+yosh = int(input("Yoshingiz nechida?>>>"))
+if yosh > 65: print("Siz COVID-19 risk guruhida ekansiz")
