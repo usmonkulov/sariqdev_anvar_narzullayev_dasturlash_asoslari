@@ -1,3 +1,4 @@
 mehmonlar = ['Ali', 'Vali', 'Hasan', 'Husan', 'Olim']
 for mehmon in mehmonlar:
-    print("Salom", mehmon)
+    print(f"Hurmatli {mehmon}, sizni 20 Dekabr kuni nahorga oshga taklif qilamiz")
+    print("Hurmat bilan, Panonchayevlar olilasi\n")
