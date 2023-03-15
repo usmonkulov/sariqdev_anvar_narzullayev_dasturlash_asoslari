@@ -1,5 +1,3 @@
-yosh = int(input("Yoshingiz nechida?>>>"))
-if yosh >= 18:
-    print('Xush kelibsiz!')
-else:
-    print('Kirish mumkin emas!')
+login = input("Yangi login tanlang:")
+if len(login) <= 5:
+    print("Login 5 harfdan ko'proq bo'lishi shart!")
