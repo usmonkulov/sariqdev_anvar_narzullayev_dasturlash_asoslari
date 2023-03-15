@@ -1,3 +1,5 @@
-javob = float(input("12x6 nechiga teng?>>>"))
-if javob != 72:
-    print("javob xato!")
+yosh = int(input("Yoshingiz nechida?>>>"))
+if yosh >= 18:
+    print('Xush kelibsiz!')
+else:
+    print('Kirish mumkin emas!')
