@@ -1,5 +1,5 @@
-toys = ('bus', 'car', 'bear', 'dino', 'snake', 'lizard')
-toys = list(toys)
-toys.append("teddy")
-toys = tuple(toys)
-print(toys)
+dostlar = []
+print("5 ta eng yaqin do'stingiz kim?")
+for n in range(5):
+    dostlar.append(input(f"{n+1}-do'stingizning ismini kiriting: "))
+print(dostlar)
