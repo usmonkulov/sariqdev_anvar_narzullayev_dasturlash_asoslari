@@ -1,2 +1,5 @@
-x, y = 25, 50
-print("x>y") if x>y else print("x<y")
+son = 50
+if son < 0:
+    print("Manfiy son")
+else:
+    print("Musbat son")
