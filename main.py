@@ -1,7 +1,10 @@
-kun = input("Bugun nima kun?>>>")
-harorat = float(input("Havo harorati qanday? "))
+narh = 15000
+choy = True
+salat = False
 
-if (kun.lower()=='yakshanba' or kun.lower()=='shanba') and harorat >= 30:
-    print("Cho'milgani ketdik!")
-elif kun.lower() == 'yakshanba' and harorat < 30:
-    print('Uyda dam olamiz!')
+if choy and salat:
+    narh = narh + 10000
+elif choy or salat:
+    narh = narh + 5000
+
+print(f"Jami {narh} so'm")
