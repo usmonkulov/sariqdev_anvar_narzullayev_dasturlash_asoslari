@@ -1,6 +1,8 @@
 menu = ['osh', 'qazonkabob', 'shashlik', 'norin', 'somsa']
-ovqat = input('Nima ovqat yeysiz?>>>')
-if ovqat.lower() not in menu:
-    print("Afsuski bizda bunday ovqat yo'q")
-else:
-    print('Buyurtma qabul qilindi.')
+buyurtmalar = ["osh", 'somsa', 'manti', 'shashlik']
+
+for taom in buyurtmalar:
+    if taom in menu:
+        print(f"Menuda {taom} bor")
+    else:
+        print(f"Kechirasiz, menuda {taom} yo'q")
